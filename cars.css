@@ -1,0 +1,45 @@
+#navtxt_Color{
+	color: white;
+	padding: 25px;
+}
+.nav_left{
+	margin-left: 500px;
+}
+#navbar_bg{
+	background-color: green;
+}
+
+/*crausal image */
+.carousel-caption h1{
+	font-size: 4em;
+}
+/* our turbo car */
+.turbo_box{
+	width: 900px;
+	height: 250px;
+	background-color: blue;
+	margin-left: 100px;
+	padding-top: 20px;
+}
+.turbo_box h1{
+	color: white;
+	text-align: center;
+}
+.dot {
+  height: 100px;
+  width: 100px;
+  /*background-color: #bbb;*/
+  border-radius: 50%;
+  display: inline-block;
+  border: 1px solid white;
+  border-style: dotted;
+  margin: 20px;
+}
+.dot h4{
+	color: white;
+	text-align: center;
+	padding-top: 12px;
+}
+.turbo_left{
+	margin-left: 200px;
+}
